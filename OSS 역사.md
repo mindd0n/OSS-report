@@ -58,5 +58,5 @@
 
 
 
-> 출처:https://www.oss.kr/news/show/98dd7972-4f14-4c38-93e2-4b5108c05dcf,
+> 출처: https://www.oss.kr/news/show/98dd7972-4f14-4c38-93e2-4b5108c05dcf
 
